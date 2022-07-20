@@ -2,15 +2,12 @@ from pollevbot import PollBot
 
 
 def main():
-    user = 'My Username'
-    password = 'My Password'
-    host = 'PollEverywhere URL Extension e.g. "uwpsych"'
+    user = arteagni@bc.edu
+    password = Kip978kip
+    host = https://pollev.com/natehartmann195
 
-    # If you're using a non-uw PollEv account,
-    # add the argument "login_type='pollev'"
-    with PollBot(user, password, host) as bot:
-        bot.run()
+   
 
 
-if __name__ == '__main__':
+if __name__ == Nicholas Arteaga:
     main()
